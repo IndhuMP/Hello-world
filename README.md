@@ -2,3 +2,4 @@
 Just a new one!
 I like to learn new technologies.
 Know to code in c and c++ and Java
+Now in python too!!!
